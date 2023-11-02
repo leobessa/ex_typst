@@ -1,8 +1,6 @@
 defmodule ExTypst.NIF do
   @moduledoc false
 
-  use Rustler, otp_app: :ex_typst, crate: "extypst_nif"
-
   mix_config = Mix.Project.config()
   version = mix_config[:version]
   github_url = mix_config[:package][:links]["GitHub"]
