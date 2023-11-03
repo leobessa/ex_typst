@@ -61,7 +61,8 @@ defmodule ExTypst.MixProject do
         ".formatter.exs",
         "README.md",
         "LICENSE",
-        "mix.exs"
+        "mix.exs",
+        "checksum-*.exs"
       ]
     ]
   end
