@@ -26,3 +26,6 @@ ex_typst-*.tar
 /tmp/
 
 priv/native/libextypst_nif.so
+
+# Shared objects build by Rust.
+*.so
