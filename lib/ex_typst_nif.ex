@@ -21,7 +21,6 @@ defmodule ExTypst.NIF do
       x86_64-pc-windows-msvc
       x86_64-unknown-linux-gnu
       x86_64-unknown-linux-musl
-      x86_64-unknown-freebsd
     ),
     # We don't use any features of newer NIF versions, so 2.15 is enough.
     nif_versions: ["2.15"],
