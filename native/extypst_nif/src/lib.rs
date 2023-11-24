@@ -82,7 +82,7 @@ impl World for SystemWorld {
             .clone()
     }
 
-    fn today(&self, offset: Option<i64>) -> Option<Datetime> {
+    fn today(&self, _offset: Option<i64>) -> Option<Datetime> {
         unimplemented!()
     }
 }
