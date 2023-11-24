@@ -37,7 +37,7 @@ defmodule ExTypst.MixProject do
   defp deps do
     [
       {:rustler_precompiled, "~> 0.7", runtime: false},
-      {:rustler, "~> 0.28.0"},
+      {:rustler, "~> 0.30"},
       {:benchee, "~> 1.0", only: :dev},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
       {:ex_doc, "~> 0.27", only: :dev, runtime: false}
