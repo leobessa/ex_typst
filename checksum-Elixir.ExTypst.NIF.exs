@@ -1,9 +1,9 @@
 %{
-  "extypst_nif-v0.2.3-nif-2.15-x86_64-pc-windows-msvc.dll.tar.gz" => "sha256:5c970f994b4c1cd41f9843dcf4e417fd18d1b35ae98ccc63849c27ab942b3a6b",
-  "libextypst_nif-v0.2.3-nif-2.15-aarch64-apple-darwin.so.tar.gz" => "sha256:73ae7ab81a87370aa4746b89ab114de1e1c32607bc417cc645f60188a1d2e952",
-  "libextypst_nif-v0.2.3-nif-2.15-aarch64-unknown-linux-gnu.so.tar.gz" => "sha256:37a296e7a8cc63d7cff95810fea8268df747858fcad75ce0e28e6c0b16c94d64",
-  "libextypst_nif-v0.2.3-nif-2.15-aarch64-unknown-linux-musl.so.tar.gz" => "sha256:b481bd44d824d2340e62b320857a43f12acbbd591e61ee29f1fee9f1c298c70a",
-  "libextypst_nif-v0.2.3-nif-2.15-x86_64-apple-darwin.so.tar.gz" => "sha256:beb543d7d59bb6d58cd01957c859c1b272e498249352ec3b1dd34d2c3402ef10",
-  "libextypst_nif-v0.2.3-nif-2.15-x86_64-unknown-linux-gnu.so.tar.gz" => "sha256:9df5f5dcc472425dc5d4ab773579f0381d70266db6216c774b77c239072aab0f",
-  "libextypst_nif-v0.2.3-nif-2.15-x86_64-unknown-linux-musl.so.tar.gz" => "sha256:60d6d84d71e7c35523d0be4e98d8993e4abee6476a4c45513cadac550db5962e",
+  "extypst_nif-v0.3.0-rc.1-nif-2.15-x86_64-pc-windows-msvc.dll.tar.gz" => "sha256:2efc6b7f04aaa88e911c79973288e87f03ba7751a6e6b84e4247ef094409c86a",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-aarch64-apple-darwin.so.tar.gz" => "sha256:1dee1c3090d45b05e33fa5b049c1f7b02834adf09fc4130392569f6bb74c9393",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-aarch64-unknown-linux-gnu.so.tar.gz" => "sha256:9016b7ed92898d52e84c8b5f0c2d6da787b8eecbec7d4eda8eef375001d93061",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-aarch64-unknown-linux-musl.so.tar.gz" => "sha256:fe041b8434de8902c24aa281a8bb9976925c0f8dd350f1f814f5675773ad1cb4",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-x86_64-apple-darwin.so.tar.gz" => "sha256:8cbca7c994ee0ffef24570ef083f65f8eab60d4021f3a305aa19706fc0910745",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-x86_64-unknown-linux-gnu.so.tar.gz" => "sha256:dc1bbe3f8a2a903c2958b2c7482592cfec2793c2ca576d1132dbc6e6016103fa",
+  "libextypst_nif-v0.3.0-rc.1-nif-2.15-x86_64-unknown-linux-musl.so.tar.gz" => "sha256:c25d8b03950449d321112046864750c5fb2c7ff7b359742ede5f4a4dc9c239b9",
 }
